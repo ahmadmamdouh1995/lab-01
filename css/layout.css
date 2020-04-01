@@ -2,328 +2,36 @@
 @media (min-width : 480px) and (max-width : 767px){
 
 
-header div{
-    text-align: center;
-    width: 480px;
-    height: 75px;
-    background-color: rgb(212, 209, 209);
-    line-height: 75px;
-    margin-top:  10px;
-    margin-bottom: 0px;
-    margin-left: auto;
-    margin-right: auto;
-    border-color: rgb(0, 0, 0);
-    border-width: 1px;
-    border-style: solid;
-
-}
-main{
-    /* text-align: center; */
-    width: 482px;
-    height: auto;
-   
-    margin-left: auto;
-    margin-right: auto;
-    
-}
-
-aside #b{
-    text-align: center;
-    width: 480px;
-    height: 150px;
-    background-color: rgb(212, 209, 209);
-    line-height: 150px;
-    margin-top:  0px;
-    margin-bottom: 0px;
-    margin-left: auto;
-    margin-right: auto;
-    border-color: rgb(0, 0, 0);
-    border-width: 1px;
-    border-style: solid;
-    border-top: none;
-}
-
-main #c{
-    text-align: center;
-    width: 480px;
-    height: 125px;
-    background-color:  rgb(212, 209, 209);
-    line-height: 125px;
-    margin-top:  0px;
-    margin-bottom: 0px;
-    margin-left: auto;
-    margin-right: auto;
-    border-color: rgb(0, 0, 0);
-    border-width: 1px;
-    border-style: solid;
-    border-top: none;
-}
-main #d{
-    text-align: center;
-    width: 480px;
-    height: 125px;
-    background-color:  rgb(212, 209, 209);
-    line-height: 125px;
-    margin-top:  0px;
-    margin-bottom: 0px;
-    margin-left: auto;
-    margin-right: auto;
-    border-color: rgb(0, 0, 0);
-    border-width: 1px;
-    border-style: solid;
-    border-top: none;
-}
-main #sec1{
-    width: 480px;
-    height: 500px;
-}
-main #e{
-    text-align: center;
-    width: 240px;
-    height: 250px;
-    background-color:  rgb(212, 209, 209);
-    line-height: 250px;
-    margin-top:  0px;
-    margin-bottom: 0px;
-    margin-left: auto;
-    margin-right: auto;
-    border-color: rgb(0, 0, 0);
-    border-width: 1px;
-    border-style: solid;
-    border-top: none;
-    float: left;
-    
-}
-
-
-main #f{
-    text-align: center;
-    width: 480px;
-    height: 250px;
-    background-color:  rgb(212, 209, 209);
-    line-height: 250px;
-    margin-top:  0px;
-    margin-bottom: 0px;
-    margin-left: auto;
-    margin-right: auto;
-    border-color: rgb(0, 0, 0);
-    border-width: 1px;
-    border-style: solid;
-    border-top: none;
-}
-
-main #g{
-    text-align: center;
-    width: 240px;
-    height: 250px;
-    background-color:  rgb(212, 209, 209);
-    line-height: 250px;
-    margin-top:  0px;
-    margin-bottom: 0px;
-    margin-left: auto;
-    margin-right: auto;
-    border-color: rgb(0, 0, 0);
-    border-width: 1px;
-    border-style: solid;
-    border-top: none;
-    float: left;
-
-}
-
-main #h{
-    text-align: center;
-    width: 480px;
-    height: 250px;
-    background-color:  rgb(212, 209, 209);
-    line-height: 250px;
-    margin-bottom: 0px;
-    margin-left: auto;
-    margin-right: auto;
-    border-color: rgb(0, 0, 0);
-    border-width: 1px;
-    border-style: solid;
-    border-top: none;
-}
-
-
-main #sec2{
-    text-align: initial;
-    width: 480px;
-    height: 80px;
-    background-color:  rgb(212, 209, 209);
-    line-height: 80px;
-    margin-top:  0px;
-    margin-bottom: 0px;
-    margin-left: auto;
-    margin-right: auto;
-    border-color: rgb(0, 0, 0);
-    border-width: 1px;
-    border-style: solid;
-    /* border-top: none; */
-}
-}
-
-@media  (min-width: 768px )  {
-    * {
-        width:  971px;
-    }
-    
     header div{
         text-align: center;
-        width: 960px;
-        height: 100px;
-        background-color: rgb(212, 209, 209);
-        line-height: 100px;
-        /* margin-top:  10px;
-        margin-bottom: 0px;
-        margin-left: auto;
-        margin-right: auto; */
-        border-color: rgb(0, 0, 0);
-        border-width: 1px;
-        border-style: solid;
-    
-    }
-    
-      
-    aside #b{
-        text-align: center;
-        width: 200px;
-        height: 600px;
-        background-color: rgb(212, 209, 209);
-        line-height: 600px;
-        /* margin-top:  0px;
-        margin-bottom: 0px;
-        margin-left: auto;
-        margin-right: auto; */
-        border-color: rgb(0, 0, 0);
-        border-width: 1px;
-        border-style: solid;
-        border-top: none;
-        float: left;
-    }
-    main #c{
-        text-align: center;
-        width: 40%;
-        height: 200px;
-        background-color:  rgb(212, 209, 209);
-        line-height: 200px;
-        /* margin-top:  0px;
-        margin-bottom: 0px;
-        margin-left: auto;
-        margin-right: auto; */
-        border-color: rgb(0, 0, 0);
-        border-width: 1px;
-        border-style: solid;
-        border-top: none;
-        border-left: none;
-        float: left;
-    }
-    main #d{
-        text-align: center;
-        width: 38%;
-        height: 200px;
-        background-color:  rgb(212, 209, 209);
-        line-height: 200px;
-        /* margin-top:  0px;
-        margin-bottom: 0px;
-        margin-left: 0px;
-        margin-right: auto; */
-        border-color: rgb(0, 0, 0);
-        border-width: 1px;
-        border-style: solid;
-        border-top: none;
-        border-left: none;
-
-        float: left;
-    }
-
-    /* main #sec1{
-        width: 960px;
-        height: 250px;
-    } */
-    main #e{
-        text-align: center;
-        width: 20%;
-        height: 250px;
-        background-color:  rgb(212, 209, 209);
-        line-height: 250px;
-        margin-top:  0px;
+        width: 480px;
+        height: 75px;
+        background-color: rgb(12, 209, 209);
+        line-height: 75px;
+        margin-top:  10px;
         margin-bottom: 0px;
         margin-left: auto;
         margin-right: auto;
         border-color: rgb(0, 0, 0);
         border-width: 1px;
         border-style: solid;
-        border-top: none;
-        border-left: none;
-
-        float: left;
+    
+    }
+    main{
+        /* text-align: center; */
+        width: 482px;
+        height: auto;
+       
+        margin-left: auto;
+        margin-right: auto;
         
     }
     
-    
-    main #f{
+    aside #b{
         text-align: center;
-        width: 20%;
-        height: 250px;
-        background-color:  rgb(212, 209, 209);
-        line-height: 250px;
-        margin-top:  0px;
-        margin-bottom: 0px;
-        margin-left: auto;
-        margin-right: auto;
-        border-color: rgb(0, 0, 0);
-        border-width: 1px;
-        border-style: solid;
-        border-top: none;
-        border-left: none;
-
-        float: left;
-    }
-    
-    main #g{
-        text-align: center;
-        width: 20%;
-        height: 250px;
-        background-color:  rgb(212, 209, 209);
-        line-height: 250px;
-        margin-top:  0px;
-        margin-bottom: 0px;
-        margin-left: auto;
-        margin-right: auto;
-        border-color: rgb(0, 0, 0);
-        border-width: 1px;
-        border-style: solid;
-        border-top: none;
-        border-left: none;
-
-        float: left;
-    
-    }
-    
-    main #h{
-        text-align: center;
-        width: 18%;
-        height: 250px;
-        background-color:  rgb(212, 209, 209);
-        line-height: 250px;
-        margin-bottom: 0px;
-        margin-left: auto;
-        margin-right: auto;
-        border-color: rgb(0, 0, 0);
-        border-width: 1px;
-        border-style: solid;
-        border-top: none;
-        border-left: none;
-
-        float: left;
-    }
-    
-    main #sec2{
-        text-align: center;
-        width: 78%;
+        width: 480px;
         height: 150px;
-        background-color:  rgb(212, 209, 209);
+        background-color: rgb(202, 29, 209);
         line-height: 150px;
         margin-top:  0px;
         margin-bottom: 0px;
@@ -332,12 +40,304 @@ main #sec2{
         border-color: rgb(0, 0, 0);
         border-width: 1px;
         border-style: solid;
-        border-left: none;
         border-top: none;
-
+    }
+    
+    main #c{
+        text-align: center;
+        width: 480px;
+        height: 125px;
+        background-color:  rgb(74, 31, 218);
+        line-height: 125px;
+        margin-top:  0px;
+        margin-bottom: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        border-color: rgb(0, 0, 0);
+        border-width: 1px;
+        border-style: solid;
+        border-top: none;
+    }
+    main #d{
+        text-align: center;
+        width: 480px;
+        height: 125px;
+        background-color:  rgb(180, 40, 40);
+        line-height: 125px;
+        margin-top:  0px;
+        margin-bottom: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        border-color: rgb(0, 0, 0);
+        border-width: 1px;
+        border-style: solid;
+        border-top: none;
+    }
+    main #sec1{
+        width: 480px;
+        height: 500px;
+    }
+    main #e{
+        text-align: center;
+        width: 240px;
+        height: 250px;
+        background-color:  rgb(49, 219, 34);
+        line-height: 250px;
+        margin-top:  0px;
+        margin-bottom: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        border-color: rgb(0, 0, 0);
+        border-width: 1px;
+        border-style: solid;
+        border-top: none;
         float: left;
+        
+    }
+    
+    
+    main #f{
+        text-align: center;
+        width: 480px;
+        height: 250px;
+        background-color:  rgb(236, 46, 46);
+        line-height: 250px;
+        margin-top:  0px;
+        margin-bottom: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        border-color: rgb(0, 0, 0);
+        border-width: 1px;
+        border-style: solid;
+        border-top: none;
+    }
+    
+    main #g{
+        text-align: center;
+        width: 240px;
+        height: 250px;
+        background-color:  rgb(201, 58, 118);
+        line-height: 250px;
+        margin-top:  0px;
+        margin-bottom: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        border-color: rgb(0, 0, 0);
+        border-width: 1px;
+        border-style: solid;
+        border-top: none;
+        float: left;
+    
+    }
+    
+    main #h{
+        text-align: center;
+        width: 480px;
+        height: 250px;
+        background-color:  rgb(214, 164, 26);
+        line-height: 250px;
+        margin-bottom: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        border-color: rgb(0, 0, 0);
+        border-width: 1px;
+        border-style: solid;
+        border-top: none;
+    }
+    
+    
+    main #sec2{
+        text-align: initial;
+        width: 480px;
+        height: 80px;
+        background-color:  rgb(75, 52, 52);
+        line-height: 80px;
+        margin-top:  0px;
+        margin-bottom: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        border-color: rgb(0, 0, 0);
+        border-width: 1px;
+        border-style: solid;
         /* border-top: none; */
     }
-
-
-}
+    }
+    
+    @media  (min-width: 768px )  {
+        * {
+            width:  971px;
+        }
+        
+        header div{
+            text-align: center;
+            width: 960px;
+            height: 100px;
+            background-color: rgb(119, 170, 36);
+            line-height: 100px;
+            /* margin-top:  10px;
+            margin-bottom: 0px;
+            margin-left: auto;
+            margin-right: auto; */
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+        
+        }
+        
+          
+        aside #b{
+            text-align: center;
+            width: 200px;
+            height: 600px;
+            background-color: rgb(41, 53, 20);
+            line-height: 600px;
+            /* margin-top:  0px;
+            margin-bottom: 0px;
+            margin-left: auto;
+            margin-right: auto; */
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            border-top: none;
+            float: left;
+        }
+        main #c{
+            text-align: center;
+            width: 40%;
+            height: 200px;
+            background-color:  rgb(8, 33, 104);
+            line-height: 200px;
+            /* margin-top:  0px;
+            margin-bottom: 0px;
+            margin-left: auto;
+            margin-right: auto; */
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            border-top: none;
+            border-left: none;
+            float: left;
+        }
+        main #d{
+            text-align: center;
+            width: 38%;
+            height: 200px;
+            background-color:  rgb(85, 14, 14);
+            line-height: 200px;
+            /* margin-top:  0px;
+            margin-bottom: 0px;
+            margin-left: 0px;
+            margin-right: auto; */
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            border-top: none;
+            border-left: none;
+    
+            float: left;
+        }
+    
+        /* main #sec1{
+            width: 960px;
+            height: 250px;
+        } */
+        main #e{
+            text-align: center;
+            width: 20%;
+            height: 250px;
+            background-color:  rgb(152, 199, 152);
+            line-height: 250px;
+            margin-top:  0px;
+            margin-bottom: 0px;
+            margin-left: auto;
+            margin-right: auto;
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            border-top: none;
+            border-left: none;
+    
+            float: left;
+            
+        }
+        
+        
+        main #f{
+            text-align: center;
+            width: 20%;
+            height: 250px;
+            background-color:  rgb(98, 98, 126);
+            line-height: 250px;
+            margin-top:  0px;
+            margin-bottom: 0px;
+            margin-left: auto;
+            margin-right: auto;
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            border-top: none;
+            border-left: none;
+    
+            float: left;
+        }
+        
+        main #g{
+            text-align: center;
+            width: 20%;
+            height: 250px;
+            background-color:  rgb(16, 160, 179);
+            line-height: 250px;
+            margin-top:  0px;
+            margin-bottom: 0px;
+            margin-left: auto;
+            margin-right: auto;
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            border-top: none;
+            border-left: none;
+    
+            float: left;
+        
+        }
+        
+        main #h{
+            text-align: center;
+            width: 18%;
+            height: 250px;
+            background-color:  rgb(19, 196, 27);
+            line-height: 250px;
+            margin-bottom: 0px;
+            margin-left: auto;
+            margin-right: auto;
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            border-top: none;
+            border-left: none;
+    
+            float: left;
+        }
+        
+        main #sec2{
+            text-align: center;
+            width: 78%;
+            height: 150px;
+            background-color:  rgb(255, 16, 16);
+            line-height: 150px;
+            margin-top:  0px;
+            margin-bottom: 0px;
+            margin-left: auto;
+            margin-right: auto;
+            border-color: rgb(0, 0, 0);
+            border-width: 1px;
+            border-style: solid;
+            border-left: none;
+            border-top: none;
+    
+            float: left;
+            /* border-top: none; */
+        }
+    
+    
+    }
